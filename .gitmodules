@@ -1,0 +1,4 @@
+[submodule "shared-pkg"]
+	path = shared-pkg
+	url = https://github.com/suimong/shared-pkg/
+	branch = releases/tag/v0.3
