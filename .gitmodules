@@ -1,4 +1,6 @@
 [submodule "mmdddd"]
 	path = micromamba-docker
 	url = https://github.com/mamba-org/micromamba-docker.git
-	branch = main
+	branch = v1.4.9
+[submodule "micromamba-docker"]
+	branch = v1.4.9
